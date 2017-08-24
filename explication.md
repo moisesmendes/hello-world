@@ -14,10 +14,6 @@ These markup languages also express information about the formatting and structu
 to minimize the syntax. This makes it easier to focus on the content of writing without the markup getting in the way—hence 
 the name ‘markdown.’
 
-The Markdown syntax won’t be covered in this lesson in order to keep the length short. However, it makes sense to explore 
-Markdown once you have gone through this lesson and are comfortable with the basics of version control. GitHub integrates 
-its own version of Markdown syntax. If you add Markdown syntax to documents you version control with GitHub Desktop these 
-will be rendered on the GitHub website. Arguably the best way to learn Markdown is to begin using it. The Getting Started 
-with Markdown lesson by Sarah Simpkin provides an overview of Markdown while the lesson Sustainable Authorship in Plain 
-Text using Pandoc and Markdown by Dennis Tenen and Grant Wythoff explains how to utilise Markdown in combination with Pandoc 
-to use plain text for your academic writing.
+# Adding something: Text Editors
+
+To write in plain text we want to use a text editor. There are a huge number of free and paid text editors available. Some of these are very straightforward and simple to use while others have a learning curve and potential uses beyond simple text editing. In the long run using a more advanced and extendable text editor like Vim or Emacs may save you time but for now we can start with a simpler editor. Atom is a good option for getting started. Atom is a text editor built by GitHub and includes syntax highlighting for Markdown alongside integration with GitHub. It is free and open source, a full ‘flight manual’, including installation instructions, is available here.
